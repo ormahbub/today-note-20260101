@@ -1,14 +1,14 @@
 ## What I have done today :
 
-- Fixed two page of exactcomms with custom coding and made the layout perfect for all devices.
-- Made some background image with canva
-- Created a wordpress plugin with a simple elementor widget (simple image slider)
+- Reviwed the project details and requirements of ExactCommns
+- Make the planning for rebuilding the website [http://exactcomms.com/](http://exactcomms.com/)
+- Setup the membership and subscription system for [https://charmnetworkmanagement.com/](https://charmnetworkmanagement.com/)
+- Created a plugin "WooCommerce Loyalty System" and complete the v1.0.0
 
 ## What I have learn and work with today :
 
-- WordPress and Elementor
-- Custom CSS, JS
-- Responsive Design
-- Plugin Development
-- Elementor widget development
-- Advacne PHP and OOP
+- User Registration & Membership
+- Plugin development
+- OOP + Namespaces
+- Admin settings
+- User meta handling
